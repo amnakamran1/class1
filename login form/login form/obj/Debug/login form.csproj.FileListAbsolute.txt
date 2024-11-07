@@ -1,0 +1,10 @@
+C:\Users\Student\OneDrive\Desktop\login form\login form\bin\Debug\login form.exe.config
+C:\Users\Student\OneDrive\Desktop\login form\login form\bin\Debug\login form.exe
+C:\Users\Student\OneDrive\Desktop\login form\login form\bin\Debug\login form.pdb
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login form.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login_form.Form1.resources
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login form.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login form.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login form.exe
+C:\Users\Student\OneDrive\Desktop\login form\login form\obj\Debug\login form.pdb

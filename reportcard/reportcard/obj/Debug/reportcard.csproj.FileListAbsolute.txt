@@ -1,0 +1,10 @@
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.Form1.resources
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.Properties.Resources.resources
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\bin\Debug\reportcard.exe.config
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\bin\Debug\reportcard.exe
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\bin\Debug\reportcard.pdb
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.exe
+C:\Users\Student\OneDrive\Desktop\reportcard\reportcard\obj\Debug\reportcard.pdb

@@ -1,0 +1,10 @@
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\bin\Debug\Connect Form.exe.config
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\bin\Debug\Connect Form.exe
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\bin\Debug\Connect Form.pdb
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect Form.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect_Form.Form1.resources
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect_Form.Properties.Resources.resources
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect Form.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect Form.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect Form.exe
+C:\Users\Student\OneDrive\Desktop\Connect Form\Connect Form\obj\Debug\Connect Form.pdb

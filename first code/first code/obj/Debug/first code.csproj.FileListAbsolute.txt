@@ -1,0 +1,7 @@
+C:\Users\Student\OneDrive\Desktop\first code\first code\bin\Debug\first code.exe.config
+C:\Users\Student\OneDrive\Desktop\first code\first code\bin\Debug\first code.exe
+C:\Users\Student\OneDrive\Desktop\first code\first code\bin\Debug\first code.pdb
+C:\Users\Student\OneDrive\Desktop\first code\first code\obj\Debug\first code.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\first code\first code\obj\Debug\first code.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\first code\first code\obj\Debug\first code.exe
+C:\Users\Student\OneDrive\Desktop\first code\first code\obj\Debug\first code.pdb

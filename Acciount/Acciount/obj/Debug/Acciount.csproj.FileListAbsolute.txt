@@ -1,0 +1,7 @@
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\bin\Debug\Acciount.exe.config
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\bin\Debug\Acciount.exe
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\bin\Debug\Acciount.pdb
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\obj\Debug\Acciount.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\obj\Debug\Acciount.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\obj\Debug\Acciount.exe
+C:\Users\Student\OneDrive\Desktop\Acciount\Acciount\obj\Debug\Acciount.pdb

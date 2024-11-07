@@ -1,0 +1,5 @@
+C:\Users\Student\OneDrive\Desktop\counter\counter\obj\Debug\counter.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\counter\counter\obj\Debug\counter.Form1.resources
+C:\Users\Student\OneDrive\Desktop\counter\counter\obj\Debug\counter.Properties.Resources.resources
+C:\Users\Student\OneDrive\Desktop\counter\counter\obj\Debug\counter.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive\Desktop\counter\counter\obj\Debug\counter.csproj.CoreCompileInputs.cache

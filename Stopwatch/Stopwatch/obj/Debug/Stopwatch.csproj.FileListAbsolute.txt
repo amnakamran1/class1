@@ -1,0 +1,15 @@
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\MainWindow.g.cs
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\App.g.cs
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.cache
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch_MarkupCompile.lref
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\MainWindow.baml
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.g.resources
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+C:\Users\Student\OneDrive\Desktop\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
